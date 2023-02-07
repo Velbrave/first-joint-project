@@ -1,11 +1,11 @@
 {
-  "name": "parcel-project-template",
+  "name": "first-joint-project",
   "version": "2.0.0",
   "description": "",
-  "homepage": "https://romfantast.github.io/project-html-css-team-2",
+  "homepage": "https://Velbrave.github.io/first-joint-project",
   "scripts": {
     "start": "parcel src/*.html",
-    "build": "parcel build src/*.html --public-url /project-html-css-team-2/"
+    "build": "parcel build src/*.html --public-url /first-joint-project/"
   },
   "repository": {
     "type": "git",
